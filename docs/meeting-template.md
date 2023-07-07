@@ -33,4 +33,8 @@ Other attendees:
 
 ## Committee Decisions
 
-<!--  -->
+1. Description:
+
+   In Favour:
+
+   Not In Favour: 
